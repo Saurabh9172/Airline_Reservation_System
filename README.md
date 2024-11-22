@@ -1,6 +1,6 @@
-Title	:	 Airline Reservation System
+Title	:	 Airline Reservation System,
 Platform	:	 React.js, SpringBoot, Hibernate, MySQL
-Duration	:	 1 Month
+Duration	:	 1 Month,
 Description	:	
 Developed a comprehensive airline reservation system aimed at enhancing user experience, streamlining booking processes, 
 and improving data management for the airline industry. Implemented features such as flight search, booking, cancellations, and user account management. 
